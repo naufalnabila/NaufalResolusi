@@ -2,5 +2,7 @@ RENCANA KONTEN
 
 - Iklan Pembuatan Website
 - Javascript
+  * ES 6
+  * Framework Javascript
 - Interview
 - Vlog
