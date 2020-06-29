@@ -4,5 +4,6 @@ RENCANA KONTEN
 - Javascript
   * ES 6
   * Framework Javascript
+- HTML
 - Interview
 - Vlog
