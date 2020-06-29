@@ -1,2 +1,2 @@
-# NaufalResolusi
+# naufal-resolusi
 Repository untuk menyimpan rencana kedepannya
